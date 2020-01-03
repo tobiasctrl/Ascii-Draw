@@ -5,4 +5,5 @@ At first you need to download pygame
 
 `pip3 install pygame`
 
-After the download you an execute the .py
+After the installation you can execute the Ascii-draw.py file.
+
