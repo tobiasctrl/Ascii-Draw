@@ -7,3 +7,4 @@ At first you need to download pygame
 
 After the installation you can execute the Ascii-draw.py file.
 
+![alt text](![alt text](http://url/to/img.png))
