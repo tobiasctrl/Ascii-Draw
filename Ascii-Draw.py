@@ -1,6 +1,6 @@
 import pygame
 import pygame.freetype
-
+#start
 def CreateIMGList(widht, height):
     IMGList = [[0 for y in range(widht)] for x in range(height)]      
     return IMGList
